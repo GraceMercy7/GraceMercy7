@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  euab addise
+
 - # Hi there, I'm Euab Addise 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/GraceMercy7?label=Followers&style=social)
@@ -44,8 +44,6 @@ Here are some of my recent projects:
 
 ---
 
-## 🎯 Fun Fact
-I like **blending my love for football and tech**, imagining apps that can help players improve their game and manage their careers efficiently. ⚽💻  
 
 ---
 
