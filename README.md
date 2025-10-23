@@ -11,7 +11,6 @@ I love building **full-stack applications**, exploring new technologies, and sol
 
 - 🔭 I’m currently working on **personal projects** and contributing to open-source projects.  
 - 🌱 I’m learning and improving my skills in **Node.js, React, Express, MongoDB, SQL, Flutter, and other modern web technologies**.  
-- ⚽ I also love **football** and aspire to combine my tech skills with sports to make impactful apps.  
 - 💡 I enjoy combining my **tech skills and creativity** to make projects that are practical and implementable.  
 
 ---
