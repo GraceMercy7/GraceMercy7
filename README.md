@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Skills  
+## 🛠️  tech-Stack
 
 ### 🚀 Languages & Frameworks  
 <p align="left">
