@@ -67,9 +67,7 @@ Here are some of my recent works:
 
 ---
 
-## 💬 Fun Fact  
-⚽ I’m a football lover and dream of becoming a **football agent** while growing as a **professional software engineer**.  
-📖 I also enjoy reading **spiritual books** and exploring **new technologies**.  
+ 
 
 ---
 
